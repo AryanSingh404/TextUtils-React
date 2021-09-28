@@ -83,7 +83,7 @@ function App() {
             <About mode={mode} />
           </Route>
           <Route exact path="/">
-          <TextForm showAlert={showAlert} heading="This is your box use this piece of shit   ;) " mode={mode} /> 
+          <TextForm showAlert={showAlert} heading="This is your box use this piece of shit   ;)" mode={mode} /> 
           </Route>
         </Switch>
       </div>
